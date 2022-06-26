@@ -43,7 +43,7 @@ To run application locally sample data available in application src.
 ```
 
 
-## Run Application without docker
+## Run Application
 -------------------------------------------------------------------------------------
 ```
 mvn install
